@@ -1,0 +1,1 @@
+I can't seem to download [page 167 of Marsh's _Dinosaurs of North America_ from the BHL](https://www.biodiversitylibrary.org/item/123252#page/43/mode/1up) so instead I blew the read-online version up to 100% and screencapped it. I had to do it two chunks because my laptop window wasn't wide enough to capture it all at once.
