@@ -29,6 +29,6 @@ Illustrated:
 Described but not illustrated:
 * Chubutisaurus in Carballido et al 2011:101 -- no details beyond "heavily pneumatized"
 * Demandasaurus in Torcida Fernandez-Baldor et al 2011:543 -- "The tuberculum and the capitulum are joined by a lamina of fine bone that presents an excavated pneumatic area."
-* Diamantinasaurus in Hocknull et al 2009 -- "The proximal expansion prossesses an excavated region and pneumatic cavities. Both ribs possess camellate internal bone structure in the proximal expansion only."
+* Diamantinasaurus in Hocknull et al 2009 -- "The proximal expansion possesses an excavated region and pneumatic cavities. Both ribs possess camellate internal bone structure in the proximal expansion only."
 * Diamantinasaurus in Poropat et al 2015:1003 -- "Between the posterior margin and the anteromedial flange of the proximal end, there is a posteromedially facing fossa. Broken surfaces at the proximal end indicate that the rib was pneumatic and had a camellate internal tissue structure."
 * Wintonotitan in Hocknull et al 2009: "Anteriorly the ribs are expanded and in cross-section possess large pneumatic vacuities internal structured [sic]. Based on the overall size of the rib fragments, the pneumatic internal structures extend as much as a third of the length of the proximal length of the rib."
