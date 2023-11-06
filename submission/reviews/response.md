@@ -21,7 +21,11 @@ In some cases, we have followed Jerry's advice to join consecutive paragraphs. I
 
 ## Review 2 - Virginia Zurriaguz
 
-XXX
+Virginia's specific suggestions on the manuscript are helpful. However:
+
+> A good idea would be to put, within the supplementary material, a similar study within Neosauropoda, in order to compare results and see if it is something typical of this entire clade.
+
+This would be beyond the scope of the present study. We agree it would be useful work to do!
 
 
 ## Review 3 - Patrick O;Connor
