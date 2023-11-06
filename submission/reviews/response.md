@@ -28,8 +28,9 @@ Virginia's specific suggestions on the manuscript are helpful. However:
 This would be beyond the scope of the present study. We agree it would be useful work to do!
 
 
-## Review 3 - Patrick O;Connor
+## Review 3 - Patrick O'Connor
 
-XXX
+We are especially grateful to Pat for spotting several silly errors including misspelled species names and singular/plural disagreements.
 
 
+XXX write acks
